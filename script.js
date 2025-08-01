@@ -3,9 +3,9 @@ function revealMessage() {
   message.style.display = "block";
   message.classList.add("fade-in");
 
-  message.innerText = `
+  message.innerText = `.....
 
-Labb, happy happy birthdayyy! You know what, I’m so proud of you palagi dahil sa mga bagay na kaya mong i-handle at pagsabay-sabayin. Kahit na busy ka sa org, acads, at family mo, nagagawa mo pa rin magkaroon ng time para sa atin. I know na hindi madali and nakaka-pressure, lalo na’t humihirap na ‘yung subjects mo, but you still make sure na pasado ka and mataas ang score mo and that’s something I admire so much sa’yo simula pa nung SHS tayo.
+Labbb, happy happy birthdayyy! You know what, I’m so proud of you palagi dahil sa mga bagay na kaya mong i-handle at pagsabay-sabayin. Kahit na busy ka sa org, acads, at family mo, nagagawa mo pa rin magkaroon ng time para sa atin. I know na hindi madali and nakaka-pressure, lalo na’t humihirap na ‘yung subjects mo, but you still make sure na pasado ka and mataas ang score mo and that’s something I admire so much sa’yo simula pa nung SHS tayo.
 
 Hindi ko man nasasabi sa’yo palagi, pero please know that I’m always here. I will do my best para mapasaya ka, at para ako ‘yung maging pahinga mo every time na pagod ka na sa school or kapag may problema ka.
 
