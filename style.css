@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
+  overflow-x: hidden;
   background-size: 100px;
   background-repeat: repeat;
 }
@@ -73,6 +73,13 @@ button:hover {
   transform: scale(1.05);
 }
 
+
+.message-box {
+    max-height: 70vh;
+    overflow-y: none;
+    padding: 16px;
+
+}
 /* Fade-in effect for message */
 .fade-in {
   animation: fadeIn 1s ease-in;
